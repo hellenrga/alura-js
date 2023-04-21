@@ -1,0 +1,9 @@
+- O computador consegue armazenar valores somente em alguns tipos de variáveis, como textos e booleanos
+
+- Como declarar uma variável numérica e associar um valor a ela
+
+- Como declarar uma variável de textos, ou seja, strings e colocar conteúdo nela
+
+- Como declarar uma variável booleana, definir e testar seu valor
+
+- Onde, como e com quais operadores as booleanas mais aparecem
