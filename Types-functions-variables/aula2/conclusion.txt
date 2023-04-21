@@ -1,0 +1,13 @@
+- Var tem um escopo global, então funciona em qlqr parte do código
+
+- let e const tem escopo local, não podendo ser acessadas em outros escopos, e const não pode ter seu valor alterado depois de definido
+
+- O JavaScript considera alguns valores como false durante comparações, como com null, undefined, 0, NaN e Strings vazias.
+
+- null é usado quando nao queremos dar valor mas tb nao queremos deixar como undefined
+
+- null é um objeto
+
+- o JS converte automaticamente entre tipos de valores, mas o ideal é fazer isso explicitamente
+
+- temos como forçar uma mudança de tipo utilizando métodos
