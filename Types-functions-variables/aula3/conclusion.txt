@@ -1,0 +1,11 @@
+- As caracteristicas principais do JS, uma linguagem interpretada e dinamicamente tipada.
+
+- O NodeJS é um interpretador de JS para backend, ou seja, executa no servidor.
+
+- Como ler erros
+
+- O que é stacktrace, também chamado de pilha, que nos auxilia a saber o que está acontecendo quando temos um erro
+
+- O que é console API
+
+- Onde as mensagens do console devem aparecer dependendo do interpretador que estamos usando, sendo que para o node JS as msgs são mostradas no terminal

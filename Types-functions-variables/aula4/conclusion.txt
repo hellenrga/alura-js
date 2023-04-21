@@ -1,0 +1,5 @@
+- A diferença de fazer comparações com == e ===
+
+- como é escrito um operador ternário (comparacao ? true : false )
+
+= template literal e concatenação, e como usa-lo
